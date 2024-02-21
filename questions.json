@@ -1,0 +1,45 @@
+[
+    {
+      "title": "World Capitals",
+      "desc": "Test your knowledge of world capitals!",
+      "questions": [
+        {
+          "text": "What is the capital of France?",
+          "answer": "0",
+          "answers": [
+            "Paris",
+            "Berlin",
+            "Madrid",
+            "Lisbon"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Programming Languages",
+      "desc": "Understand the basics of programming languages.",
+      "questions": [
+        {
+          "text": "Which language is primarily used for Android App Development?",
+          "answer": "1",
+          "answers": [
+            "Swift",
+            "Kotlin",
+            "Objective-C",
+            "JavaScript"
+          ]
+        },
+        {
+          "text": "What does HTML stand for?",
+          "answer": "0",
+          "answers": [
+            "HyperText Markup Language",
+            "HighText Machine Language",
+            "HyperTool Markup Language",
+            "None of the above"
+          ]
+        }
+      ]
+    }
+  ]
+  
